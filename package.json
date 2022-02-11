@@ -8,7 +8,7 @@
     "cloudinary": "1.7.0",
     "connect-mongo": "^2.0.1",
     "dotenv": "^4.0.0",
-    "express-handlebars": "3.0.0",
+    "express-handlebars": "5.3.1",
     "glightbox": "^2.0.4",
     "handlebars": "4.0.6",
     "keystone": "^4.0.0-beta.8",
