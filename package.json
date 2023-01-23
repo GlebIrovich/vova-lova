@@ -11,7 +11,7 @@
     "express-handlebars": "3.0.0",
     "glightbox": "^2.0.4",
     "handlebars": "4.0.6",
-    "keystone": "^4.0.0-beta.8",
+    "keystone": "^4.2.1",
     "keystone-email": "^1.1.0",
     "lodash": "^4.13.1",
     "mailgun-js": "^0.22.0",
