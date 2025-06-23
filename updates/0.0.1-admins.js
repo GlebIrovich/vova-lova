@@ -12,14 +12,14 @@ exports.create = {
 		{
 			'name.first': 'Admin',
 			'name.last': 'User',
-			email: 'ch.cookiehunter@gmail.com',
+			email: 'g_test@email.com',
 			password: '123456',
 			isAdmin: true,
 		},
 		{
 			'name.first': 'Vova',
 			'name.last': 'Lova',
-			email: 'oxsanych@gmail.com',
+			email: 'v_test@email.com',
 			password: 'vova-lova',
 			isAdmin: true,
 		},
